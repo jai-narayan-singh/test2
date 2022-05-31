@@ -1,0 +1,3 @@
+Nmae : jai narayan singh 
+age : 20
+profile : front end developper
